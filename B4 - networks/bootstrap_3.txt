@@ -1,0 +1,5 @@
+Concepts Covered:
+	- Wifi equipment
+	- Configuring a Wifi router
+	- CDP protocol
+	- TFTP protocol

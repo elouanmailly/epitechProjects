@@ -1,0 +1,25 @@
+TP1: Create your own Archlinux VM
+	Creating an Archlinux virtual machine
+	
+TP2: Configuring your Archlinux VM
+	Installing and configuring the Archlinux virtual machine
+	Changing language information through the locales
+	Installing a bootloader
+	
+TP3: Users/Groups and Permission/Rights
+	Creating users and groups
+	Handling permission and rights
+	
+TP4: Super users and locales
+	Handling super user rights
+	Handling locales
+	
+TP5: X Server
+	Installing an graphic interface
+	Installing a window manager
+	Installing an display manager
+	
+TP6: personalizing your Archlinux VM
+	Installing Yaourt
+	Installing iBus
+

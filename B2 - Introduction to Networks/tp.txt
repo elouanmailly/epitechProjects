@@ -1,0 +1,18 @@
+TP1: OSI/TCP IP models and Wiring
+	- OSI & TCP/IP Models
+	- IP protocol
+	- Encapsulation
+	- IPv4 datagrams
+	- IPv4 addresses
+	- Subnetwork masks
+	- Network equipment
+	- Hard links
+TP2: Optimizing IP addresses
+	- Subnetworks
+	- How to optimize an IP address?
+TP3: Small network configuration
+	- IP transfer
+	- Default gateway
+	- Traceroute
+	- IP alias
+

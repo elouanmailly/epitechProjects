@@ -1,0 +1,13 @@
+Bootstrap #1-1: Concepts Covered:
+	- OSI & TCP/IP models
+	- IP protocol
+	- IP aliasing
+	- Default gateway
+	- Routes
+	- IP Forwarding
+
+Bootstrap #1-2: Concepts Covered:
+	- IPv4 Addresses
+	- Subnetwork mask 
+	- Subnetworks 
+	- How to optimize an IP address?

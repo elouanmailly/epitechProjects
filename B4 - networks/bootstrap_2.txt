@@ -1,0 +1,14 @@
+Bootstrap 2-1: Concepts Covered:
+	- Presentation of Cisco Packet Tracer 
+	- Learning about the Cisco Packet Tracer 
+	- Network equipment
+	- Setting up a router
+	- Setting up a switch
+	- Installing Serial ports 
+	- Setting up cables
+	- Starting up the router
+
+Bootstrap 2-2: Concepts Covered:
+	- Cisco IOS System 
+	- Configuring the interfaces
+	- Static routing
